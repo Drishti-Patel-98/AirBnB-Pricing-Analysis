@@ -12,6 +12,7 @@ Key Tasks:
   5. Dual-axis time series chart to compare the growth of new hosts and average listing prices over time using twinx() in matplotlib.
 
 Tools Used: Python, Pandas, Seaborn, Matplotlib, Jupyter Notebook
+
 Dataset: https://app.mavenanalytics.io/guided-projects/4fee7ee7-4c04-46e7-9f3e-99b987980842
 
 
